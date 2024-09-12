@@ -8,3 +8,4 @@ function Rectangle(a, b) {
 }
 
 console.log(Rectangle(4,5));
+//{ length: 4, width: 5, perimeter: 18, area: 20 }
